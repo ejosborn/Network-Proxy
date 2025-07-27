@@ -2,6 +2,6 @@
 #include <boost/asio.hpp>
 
 int main() {
-    std::cout << "Hello NetworkProj\n";
+    std::cout << "Hello NetworkProxy\n";
     return 0;
 }

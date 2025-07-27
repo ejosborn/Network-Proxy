@@ -1,4 +1,4 @@
-# NetworkProj
+# NetworkProxy
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@
 Run the following command in your preferred location:
 
 ```
-git clone https://github.com/ejosborn/NetworkProj.git
+git clone https://github.com/ejosborn/NetworkProxy.git
 ```
 
 ## How to Build
